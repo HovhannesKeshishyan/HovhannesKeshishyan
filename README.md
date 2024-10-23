@@ -7,7 +7,6 @@ I'm a frontend developer specializing in:
 - Web performance optimization
 
 ## 🚀 Skills
-### Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
