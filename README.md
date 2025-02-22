@@ -18,16 +18,13 @@ I'm a fullstack developer specializing in:
 ## 📈 Statistics
 
 <div>
-    <a href="https://github.com/Hovhannes1991"
-       style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 20px; text-decoration: none">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hovhannes1991&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hovhannes1991&theme=transparent&layout=donut&langs_count=5&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
-    </a>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hovhannes1991&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hovhannes1991&theme=transparent&layout=donut&langs_count=5&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
 </div>
 
 ## 🚀 Skills
 
-<p style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px">
+<p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
