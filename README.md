@@ -43,17 +43,7 @@ I'm a fullstack developer specializing in:
 
 ## 🔗 Let's Connect
 
-<div id="user-content-toc">
-  <a style="text-decoration: none" target="_blank" href="mailto:hovhanneskeshishyan@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-ae5145?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/hovhannes-keshishyan">
-     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin"/>
-  </a>  
-  <a style="text-decoration: none" target="_blank" href="https://www.facebook.com/HovoKeshishyan">
-     <img src="https://img.shields.io/badge/-Facebook-4266f6?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a style="text-decoration: none" target="_blank" href="https://twitter.com/hovo1991">
-     <img src="https://img.shields.io/badge/-X.com-000000?style=for-the-badge&logo=X&logoColor=white" alt="X.com"/>
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/-Gmail-ae5145?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hovhanneskeshishyan@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hovhannes-keshishyan)
+[![Facebook](https://img.shields.io/badge/-Facebook-4266f6?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/HovoKeshishyan)
+[![Facebook](https://img.shields.io/badge/-X.com-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hovo1991)
