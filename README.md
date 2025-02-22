@@ -19,7 +19,7 @@ I'm a fullstack developer specializing in:
 
 <div>
     <a href="https://github.com/Hovhannes1991"
-       style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 20px">
+       style="display: flex; align-items: flex-start; flex-wrap: wrap; gap: 20px; text-decoration: none">
       <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hovhannes1991&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hovhannes1991&theme=transparent&layout=donut&langs_count=5&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
     </a>
@@ -44,6 +44,19 @@ I'm a fullstack developer specializing in:
   <img src="https://img.shields.io/badge/github-d1d9e0?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
 </p>
 
-## Let's Connect
+## 🔗 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/hovhannes-keshishyan)
+<div>
+  <a target="_blank" href="mailto:hovhanneskeshishyan@gmail.com">
+     <img src="https://img.shields.io/badge/-Gmail-ae5145?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/hovhannes-keshishyan">
+     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin"/>
+  </a>  
+  <a target="_blank" href="https://www.facebook.com/HovoKeshishyan">
+     <img src="https://img.shields.io/badge/-Facebook-4266f6?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a target="_blank" href="https://twitter.com/hovo1991">
+     <img src="https://img.shields.io/badge/-X.com-000000?style=for-the-badge&logo=X&logoColor=white" alt="X.com"/>
+  </a>
+</div>
