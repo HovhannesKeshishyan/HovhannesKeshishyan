@@ -12,14 +12,14 @@ I'm a fullstack developer specializing in:
 ## 👀 Visitor Count
 
 <div>  
-  <img src="https://profile-counter.glitch.me/Hovhannes1991/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/HovhannesKeshishyan/count.svg" alt="Visitor's Count" />
 </div>
 
 ## 📈 Statistics
 
 <div>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hovhannes1991&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hovhannes1991&theme=transparent&layout=donut&langs_count=5&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HovhannesKeshishyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HovhannesKeshishyan&theme=transparent&layout=donut&langs_count=5&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
 </div>
 
 ## 🚀 Skills
