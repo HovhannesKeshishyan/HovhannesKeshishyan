@@ -9,12 +9,6 @@ I'm a fullstack developer specializing in:
 - CSS libraries (Tailwind, Bootstrap)
 - Web performance optimization
 
-## 👀 Visitor Count
-
-<div>  
-  <img src="https://profile-counter.glitch.me/HovhannesKeshishyan/count.svg" alt="Visitor's Count" />
-</div>
-
 ## 📈 Statistics
 
 <div>
