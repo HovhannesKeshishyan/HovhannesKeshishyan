@@ -40,4 +40,5 @@ I'm a fullstack developer specializing in:
 [![Gmail](https://img.shields.io/badge/-Gmail-ae5145?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hovhanneskeshishyan@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hovhannes-keshishyan)
 [![Facebook](https://img.shields.io/badge/-Facebook-4266f6?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/HovoKeshishyan)
-[![Facebook](https://img.shields.io/badge/-X.com-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hovo1991)
+[![X](https://img.shields.io/badge/-X.com-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hovo1991)
+[![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11672674/hovhannes)
