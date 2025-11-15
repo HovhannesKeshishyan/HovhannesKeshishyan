@@ -1,4 +1,4 @@
-# Hi, I'm Hovhannes Keshishyan 👋
+# Hi, I'm Hovhannes 👋
 
 I'm a fullstack developer specializing in:
 
