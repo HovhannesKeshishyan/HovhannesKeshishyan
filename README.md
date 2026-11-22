@@ -15,7 +15,7 @@ I'm a full-stack developer specializing in:
 
 <div>
     <img height="198" width="336" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HovhannesKeshishyan&theme=github_dark&title_color=00AEFF&icon_color=2DDE98&text_color=fff" alt="GitHub Stats" />
-    <img height="198" width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=HovhannesKeshishyan&layout=compact&langs_count=8&theme=algolia" alt="Most Used Languages" />
+    <img height="198" width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=HovhannesKeshishyan&layout=compact&langs_count=8&theme=algolia&border_color=2e343b" alt="Most Used Languages" />
 </div>
 <div>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HovhannesKeshishyan&theme=github_dark&title_color=00AEFF&icon_color=2DDE98&text_color=fff" alt="Profile Details" />
